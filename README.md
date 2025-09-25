@@ -1,6 +1,6 @@
 # Adventure
 
-An action-adventure game inspired by *Uncharted*, developed by **Team Gaymers** as a final project for **GAME 250** at Penn State Behrend.
+An action-adventure game inspired by *Uncharted* from Sony Interactive Entertainment, developed by **Team Gaymers** as a final project for **GAME 250** at Penn State Behrend.
 
 ---
 
